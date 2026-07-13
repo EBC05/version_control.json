@@ -1,9 +1,11 @@
 {
   "versionCode": 2,
-  "versionName": "v2.2.0",
+  "versionName": "v1.1.0",
   "isMandatory": true,
-  "added": "S-O-S Merkezi ve Hızlı Tarama modüllerine Otonom Lokal Zırhlar eklendi.\nUygulama, Android 14+ esnek izin mimarisine geçirildi.",
-  "fixed": "İzin karşılama ekranı sonsuz döngüsü çözüldü.\nİzinsiz girişlerdeki çökmeler engellendi.",
-  "oldVersion": "v2.0.0",
-  "oldNotes": "Uzaktan Yönetilen Sürüm Paneli (OTA Bulut Ağı) ve Taktiksel S-O-S Çakar altyapısı entegre edildi. Hantal yapılar temizlendi."
+  "features": "- S-O-S Otonom Haberleşme ve Acil Durum Ağ Altyapısı kuruldu.\n- Hızlı Tarama modüllerine milimetrik yerel zırhlar (Runtime Checks) entegre edildi.",
+  "changes": "- Tüm izin isteme akışı Android 14+ mimarisine tam uyumlu hale getirildi.\n- Güncelleme uyarısı pürüzsüz, alttan kayan Premium Kapsül yapısına geçirildi.",
+  "fixed": "- İzin karşılama ekranında yaşanan sonsuz döngü arızası kökten temizlendi.\n- KVKK ve Gizlilik Sözleşmesi onaylanmadan ana ekranın bypass edilme açığı mühürlendi.",
+  "summary": "Bu güncelleme, uygulamanın KVKK regülasyonlarına ve Google Play Store güvenlik politikalarına tam uyumlu olarak kararlı (Production v1.0.0) sürüme geçişini sağlayan kritik bir mimari yamadır.",
+  "oldVersion": "v1.0.0 Beta",
+  "oldNotes": "İlk deneysel sistem yayını gerçekleştirildi. Uzaktan OTA bulut güncelleme radarı altyapısı kuruldu."
 }
