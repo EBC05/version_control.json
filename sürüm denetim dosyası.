@@ -1,7 +1,7 @@
 
 {
   "versionCode": 4,
-  "versionName": "v1.0.1 BETA",
+  "versionName": "v1.1.1 BETA",
   "isMandatory": false,
   "features": "- Google Authentication altyapısı için siber köprüler kuruldu.\n- Bulut veri yedekleme (Cloud Sync) modülü eklendi.",
   "changes": "- Ayarlar menüsüne 'Hesabım' paneli entegre edildi.",
