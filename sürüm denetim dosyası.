@@ -1,5 +1,5 @@
 {
-  "versionName": "v2.1.0",
+  "versionName": "v2.2.0",
   "added": "[ZORUNLU]\n- S-O-S Merkezi ve Hızlı Tarama modüllerine Otonom Lokal Zırhlar eklendi.\n- Uygulama, Android 14+ esnek izin mimarisine geçirildi.",
   "fixed": "- İzin karşılama ekranı sonsuz döngüsü çözüldü.\n- İzinsiz girişlerdeki çökmeler engellendi."
 }
