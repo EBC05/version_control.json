@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "v1.1.0",
+  "versionCode": 3,
+  "versionName": "v2.1.0",
   "isMandatory": true,
   "features": "- S-O-S Otonom Haberleşme ve Acil Durum Ağ Altyapısı kuruldu.\n- Hızlı Tarama modüllerine milimetrik yerel zırhlar (Runtime Checks) entegre edildi.",
   "changes": "- Tüm izin isteme akışı Android 14+ mimarisine tam uyumlu hale getirildi.\n- Güncelleme uyarısı pürüzsüz, alttan kayan Premium Kapsül yapısına geçirildi.",
