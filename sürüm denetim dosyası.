@@ -1,6 +1,5 @@
 {
-  "version": "2.1.0",
-  "isMandatory": true,
-  "url": "market://details?id=com.ebc.bitkianaliz",
-  "releaseNotes": "(YENİDE)\nGüncelleme Sürümü: v2.1.0 (Güvenlik Kalkanı)\nYenilikler: S-O-S Merkezi, Rehber ve Hızlı Tarama modüllerine Otonom Lokal Zırhlar eklendi.\nDüzeltmeler: İzin karşılama ekranı sonsuz döngüsü çözüldü. İzinsiz girişlerdeki çökmeler %100 engellendi.\nÖzet: Sistem Google Play standartlarına tam uyumlu hale getirildi, uçağın düşmesi kalıcı olarak engellendi.\n\n(GEÇMİŞ SÜRÜM)\nEklenen: Uzaktan Yönetilen Sürüm Paneli (OTA Bulut Ağı)\nDüzenlemeler: Hantal veri tabanları silindi.\nÖzet: Uygulama yerel bir yazılım olmaktan çıkarak, devasa bir siber ağa bağlandı."
+  "versionName": "v2.1.0",
+  "added": "[ZORUNLU]\n- S-O-S Merkezi ve Hızlı Tarama modüllerine Otonom Lokal Zırhlar eklendi.\n- Uygulama, Android 14+ esnek izin mimarisine geçirildi.",
+  "fixed": "- İzin karşılama ekranı sonsuz döngüsü çözüldü.\n- İzinsiz girişlerdeki çökmeler engellendi."
 }
