@@ -1,11 +1,12 @@
+
 {
-  "versionCode": 2,
-  "versionName": "v1.1.0",
-  "isMandatory": true,
-  "features": "- S-O-S Otonom Haberleşme ve Acil Durum Ağ Altyapısı kuruldu.\n- Hızlı Tarama modüllerine milimetrik yerel zırhlar (Runtime Checks) entegre edildi.",
-  "changes": "- Tüm izin isteme akışı Android 14+ mimarisine tam uyumlu hale getirildi.\n- Güncelleme uyarısı pürüzsüz, alttan kayan Premium Kapsül yapısına geçirildi.",
-  "fixed": "- İzin karşılama ekranında yaşanan sonsuz döngü arızası kökten temizlendi.\n- KVKK ve Gizlilik Sözleşmesi onaylanmadan ana ekranın bypass edilme açığı mühürlendi.",
-  "summary": "Bu güncelleme, uygulamanın KVKK regülasyonlarına ve Google Play Store güvenlik politikalarına tam uyumlu olarak kararlı (Production v1.0.0) sürüme geçişini sağlayan kritik bir mimari yamadır.",
-  "oldVersion": "v1.0.0 Beta",
-  "oldNotes": "İlk deneysel sistem yayını gerçekleştirildi. Uzaktan OTA bulut güncelleme radarı altyapısı kuruldu."
+  "versionCode": 4,
+  "versionName": "v1.0.1 BETA",
+  "isMandatory": false,
+  "features": "- Google Authentication altyapısı için siber köprüler kuruldu.\n- Bulut veri yedekleme (Cloud Sync) modülü eklendi.",
+  "changes": "- Ayarlar menüsüne 'Hesabım' paneli entegre edildi.",
+  "fixed": "- API Key kayıp sorunları bulut senkronizasyonu ile çözüldü.",
+  "summary": "Bu isteğe bağlı bir BETA güncellemesidir. Sistemi Google bulut ağına bağlamak için gerekli altyapı testlerini içerir.",
+  "oldVersion": "v1.0.0",
+  "oldNotes": "İlk kararlı üretim sürümü."
 }
