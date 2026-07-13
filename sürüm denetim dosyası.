@@ -1,12 +1,11 @@
-
 {
-  "versionCode": 4,
-  "versionName": "v1.1.1 BETA",
+  "versionCode": 5,
+  "versionName": "v1.0.2 BETA",
   "isMandatory": false,
-  "features": "- Google Authentication altyapısı için siber köprüler kuruldu.\n- Bulut veri yedekleme (Cloud Sync) modülü eklendi.",
-  "changes": "- Ayarlar menüsüne 'Hesabım' paneli entegre edildi.",
-  "fixed": "- API Key kayıp sorunları bulut senkronizasyonu ile çözüldü.",
-  "summary": "Bu isteğe bağlı bir BETA güncellemesidir. Sistemi Google bulut ağına bağlamak için gerekli altyapı testlerini içerir.",
-  "oldVersion": "v1.0.0",
-  "oldNotes": "İlk kararlı üretim sürümü."
+  "features": "- Google Cloud ve Firebase kimlik doğrulama altyapısı temelleri atıldı.\n- SHA-1 Güvenlik Sertifikası otonom olarak cihazdan okundu.",
+  "changes": "- Firebase ekosistemi için dizin/dosya mimarisi planlandı.",
+  "fixed": "- Altyapı hazırlıkları için sistem stabilizasyonu sağlandı.",
+  "summary": "Bu BETA sürümü, uygulamanın Firebase veritabanı (Firestore) ve Google oturum açma (Auth) sistemlerine tam entegrasyonu için gereken siber köprüleri inşa eder.",
+  "oldVersion": "v1.0.1 BETA",
+  "oldNotes": "Sistem profil kartları ve bulut mimarisi planlandı."
 }
